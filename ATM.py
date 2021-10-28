@@ -90,7 +90,6 @@ while (pilihan == 'y'):
                 print(f"[1] Sisa saldo tabungan anda saat ini adalah : Rp. {saldoTab -tunaiTab}")
                  
     elif menu == '4':
-        print("=========================================================")
         print("========= KARTU ANDA AKAN KELUAR DARI APLIKASI ==========")
         print()
         print("=== TERIMA KASIH SUDAH MENGGUNAKAN LAYANAN APLIKASI PENCATATAN UANG DIGITAL ===")
